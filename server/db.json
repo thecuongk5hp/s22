@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cam tươi",
+      "image": "https://vfa.gov.vn/storage/news/640/cong-dung-cua-qua-cam.jpg",
+      "price": 12000,
+      "quantity": 12,
+      "date": "9/10/2024"
+    },
+    {
+      "id": 2,
+      "name": "Táo lê",
+      "image": "https://congnghenhat.com/wp-content/uploads/2023/03/congnghenhat-8.jpg",
+      "price": 25000,
+      "quantity": 150,
+      "date": "9/10/2024"
+    },
+    {
+      "id": 3,
+      "name": "Xoài",
+      "image": "https://photo-cms-tpo.epicdn.me/w890/Uploaded/2023/rkznae/2020_04_05/qua_xoai_va_nhung_tac_dung_voi_suc_khoe_1_IMRD.jpg",
+      "price": 30000,
+      "quantity": 102,
+      "date": "9/10/2024"
+    }
+  ]
+}
